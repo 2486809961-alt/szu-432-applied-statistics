@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"C0\"",
+      "color": {
+        "a": 1,
+        "rgb": 15637523
+      }
+    },
+    {
+      "query": "path:\"C1\"",
+      "color": {
+        "a": 1,
+        "rgb": 4172512
+      }
+    },
+    {
+      "query": "path:\"推导-\"",
+      "color": {
+        "a": 1,
+        "rgb": 13923300
+      }
+    },
+    {
+      "query": "path:\"真题-\"",
+      "color": {
+        "a": 1,
+        "rgb": 12255232
+      }
+    },
+    {
+      "query": "path:\"00 索引\"",
+      "color": {
+        "a": 1,
+        "rgb": 11184810
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.3,
+  "nodeSizeMultiplier": 1.33184204647006,
+  "lineSizeMultiplier": 0.899151027703307,
+  "collapse-forces": true,
+  "centerStrength": 0.5,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 120,
+  "scale": 0.5672757110442032,
+  "close": true
+}

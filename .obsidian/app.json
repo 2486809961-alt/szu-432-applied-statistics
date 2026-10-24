@@ -1,0 +1,19 @@
+{
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "98 附件-原始试卷页",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 索引",
+  "defaultViewMode": "preview",
+  "livePreview": true,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "promptDelete": true,
+  "trashOption": "system",
+  "spellcheck": false,
+  "propertiesInDocument": "hidden",
+  "foldHeading": false
+}

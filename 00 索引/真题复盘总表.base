@@ -1,0 +1,70 @@
+filters:
+  and:
+    - type == "真题复盘"
+properties:
+  file.name:
+    displayName: 复盘页
+  年份:
+    displayName: 年份
+  题型:
+    displayName: 题型
+  考点:
+    displayName: 考点
+  考点码:
+    displayName: 考点码
+  大类:
+    displayName: 大类
+  难度:
+    displayName: 难度
+  答案:
+    displayName: 答案
+views:
+  - type: table
+    name: 全部复盘（按年份）
+    order:
+      - 年份
+      - 题型
+      - 题号
+      - 大类
+      - 考点
+      - 答案
+      - file.name
+    sort:
+      - property: 年份
+        direction: ASC
+      - property: 题号
+        direction: ASC
+  - type: table
+    name: 按考点分组（同考点跨年）
+    groupBy:
+      property: 考点
+      direction: ASC
+    order:
+      - 年份
+      - 题型
+      - 答案
+      - file.name
+    sort:
+      - property: 年份
+        direction: ASC
+  - type: table
+    name: 按大类分组
+    groupBy:
+      property: 大类
+      direction: ASC
+    order:
+      - 考点
+      - 年份
+      - 题型
+      - file.name
+  - type: table
+    name: 2025 年专刷
+    filters:
+      and:
+        - '"年份" == 2025'
+    order:
+      - 题型
+      - 题号
+      - 考点
+      - 答案
+      - file.name

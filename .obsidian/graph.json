@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "tag:#知识点",
+      "color": {
+        "a": 1,
+        "rgb": 16347225
+      }
+    },
+    {
       "query": "path:\"C0\"",
       "color": {
         "a": 1,
@@ -53,6 +60,6 @@
   "repelStrength": 12,
   "linkStrength": 1,
   "linkDistance": 120,
-  "scale": 0.5672757110442032,
+  "scale": 0.5753145201521541,
   "close": true
 }

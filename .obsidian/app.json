@@ -15,5 +15,6 @@
   "trashOption": "system",
   "spellcheck": false,
   "propertiesInDocument": "hidden",
-  "foldHeading": false
+  "foldHeading": false,
+  "safeMode": false
 }

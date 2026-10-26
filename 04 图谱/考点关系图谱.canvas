@@ -1,2832 +1,318 @@
 {
- "nodes": [
-  {
-   "id": "n1",
-   "type": "file",
-   "x": 0,
-   "y": 40,
-   "width": 300,
-   "height": 70,
-   "color": "1",
-   "file": "C01 随机事件与概率/C01 随机事件与概率.md"
-  },
-  {
-   "id": "n2",
-   "type": "file",
-   "x": 380,
-   "y": 35,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C01 随机事件与概率/P01 事件与概率的基本概念/P01 事件与概率的基本概念.md"
-  },
-  {
-   "id": "n3",
-   "type": "file",
-   "x": 780,
-   "y": 25,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C01 随机事件与概率/P01 事件与概率的基本概念/K01 样本空间、事件的关系与运算.md"
-  },
-  {
-   "id": "n4",
-   "type": "text",
-   "x": 1130,
-   "y": 20,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n5",
-   "type": "file",
-   "x": 780,
-   "y": 110,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C01 随机事件与概率/P01 事件与概率的基本概念/K02 概率的公理化与加法公式.md"
-  },
-  {
-   "id": "n6",
-   "type": "text",
-   "x": 1130,
-   "y": 105,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n7",
-   "type": "file",
-   "x": 780,
-   "y": 195,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C01 随机事件与概率/P01 事件与概率的基本概念/K03 古典概型与排列组合计数.md"
-  },
-  {
-   "id": "n8",
-   "type": "text",
-   "x": 1130,
-   "y": 190,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n9",
-   "type": "file",
-   "x": 780,
-   "y": 280,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C01 随机事件与概率/P01 事件与概率的基本概念/K04 几何概型.md"
-  },
-  {
-   "id": "n10",
-   "type": "text",
-   "x": 1130,
-   "y": 275,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n11",
-   "type": "file",
-   "x": 380,
-   "y": 375,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C01 随机事件与概率/P02 条件概率与事件的独立性/P02 条件概率与事件的独立性.md"
-  },
-  {
-   "id": "n12",
-   "type": "file",
-   "x": 780,
-   "y": 365,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C01 随机事件与概率/P02 条件概率与事件的独立性/K05 条件概率、乘法公式与全概率公式.md"
-  },
-  {
-   "id": "n13",
-   "type": "text",
-   "x": 1130,
-   "y": 360,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n14",
-   "type": "file",
-   "x": 780,
-   "y": 450,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C01 随机事件与概率/P02 条件概率与事件的独立性/K06 贝叶斯公式与逆概率.md"
-  },
-  {
-   "id": "n15",
-   "type": "file",
-   "x": 780,
-   "y": 535,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C01 随机事件与概率/P02 条件概率与事件的独立性/K07 事件的独立性与两两独立.md"
-  },
-  {
-   "id": "n16",
-   "type": "text",
-   "x": 1130,
-   "y": 530,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n17",
-   "type": "file",
-   "x": 0,
-   "y": 695,
-   "width": 300,
-   "height": 70,
-   "color": "1",
-   "file": "C02 一维随机变量及其分布/C02 一维随机变量及其分布.md"
-  },
-  {
-   "id": "n18",
-   "type": "file",
-   "x": 380,
-   "y": 690,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C02 一维随机变量及其分布/P01 分布函数与密度函数/P01 分布函数与密度函数.md"
-  },
-  {
-   "id": "n19",
-   "type": "file",
-   "x": 780,
-   "y": 680,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C02 一维随机变量及其分布/P01 分布函数与密度函数/K08 分布函数的性质与参数确定.md"
-  },
-  {
-   "id": "n20",
-   "type": "text",
-   "x": 1130,
-   "y": 675,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n21",
-   "type": "file",
-   "x": 780,
-   "y": 765,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C02 一维随机变量及其分布/P01 分布函数与密度函数/K09 密度函数的性质与规范性检验.md"
-  },
-  {
-   "id": "n22",
-   "type": "text",
-   "x": 1130,
-   "y": 760,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n23",
-   "type": "file",
-   "x": 380,
-   "y": 860,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C02 一维随机变量及其分布/P02 离散型随机变量与常见分布/P02 离散型随机变量与常见分布.md"
-  },
-  {
-   "id": "n24",
-   "type": "file",
-   "x": 780,
-   "y": 850,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C02 一维随机变量及其分布/P02 离散型随机变量与常见分布/K10 0-1分布、二项分布与几何分布.md"
-  },
-  {
-   "id": "n25",
-   "type": "text",
-   "x": 1130,
-   "y": 845,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n26",
-   "type": "file",
-   "x": 780,
-   "y": 935,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C02 一维随机变量及其分布/P02 离散型随机变量与常见分布/K11 泊松分布及其可加性.md"
-  },
-  {
-   "id": "n27",
-   "type": "text",
-   "x": 1130,
-   "y": 930,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n28",
-   "type": "file",
-   "x": 380,
-   "y": 1030,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C02 一维随机变量及其分布/P03 连续型随机变量与常见分布/P03 连续型随机变量与常见分布.md"
-  },
-  {
-   "id": "n29",
-   "type": "file",
-   "x": 780,
-   "y": 1020,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C02 一维随机变量及其分布/P03 连续型随机变量与常见分布/K12 均匀分布.md"
-  },
-  {
-   "id": "n30",
-   "type": "file",
-   "x": 780,
-   "y": 1105,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C02 一维随机变量及其分布/P03 连续型随机变量与常见分布/K13 指数分布与无记忆性.md"
-  },
-  {
-   "id": "n31",
-   "type": "text",
-   "x": 1130,
-   "y": 1100,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n32",
-   "type": "file",
-   "x": 780,
-   "y": 1190,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C02 一维随机变量及其分布/P03 连续型随机变量与常见分布/K14 正态分布及标准化.md"
-  },
-  {
-   "id": "n33",
-   "type": "text",
-   "x": 1130,
-   "y": 1185,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n34",
-   "type": "file",
-   "x": 780,
-   "y": 1275,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C02 一维随机变量及其分布/P03 连续型随机变量与常见分布/K15 伽马分布、贝塔分布与χ²分布.md"
-  },
-  {
-   "id": "n35",
-   "type": "text",
-   "x": 1130,
-   "y": 1270,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n36",
-   "type": "file",
-   "x": 380,
-   "y": 1370,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C02 一维随机变量及其分布/P04 随机变量函数的分布/P04 随机变量函数的分布.md"
-  },
-  {
-   "id": "n37",
-   "type": "file",
-   "x": 780,
-   "y": 1360,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C02 一维随机变量及其分布/P04 随机变量函数的分布/K16 一维随机变量函数的分布.md"
-  },
-  {
-   "id": "n38",
-   "type": "text",
-   "x": 1130,
-   "y": 1355,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n39",
-   "type": "file",
-   "x": 0,
-   "y": 1520,
-   "width": 300,
-   "height": 70,
-   "color": "1",
-   "file": "C03 多维随机变量及其分布/C03 多维随机变量及其分布.md"
-  },
-  {
-   "id": "n40",
-   "type": "file",
-   "x": 380,
-   "y": 1515,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C03 多维随机变量及其分布/P01 联合分布、边缘分布与独立性/P01 联合分布、边缘分布与独立性.md"
-  },
-  {
-   "id": "n41",
-   "type": "file",
-   "x": 780,
-   "y": 1505,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C03 多维随机变量及其分布/P01 联合分布、边缘分布与独立性/K17 联合分布与边缘分布的求解.md"
-  },
-  {
-   "id": "n42",
-   "type": "text",
-   "x": 1130,
-   "y": 1500,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n43",
-   "type": "file",
-   "x": 780,
-   "y": 1590,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C03 多维随机变量及其分布/P01 联合分布、边缘分布与独立性/K18 随机变量的独立性与条件分布.md"
-  },
-  {
-   "id": "n44",
-   "type": "text",
-   "x": 1130,
-   "y": 1585,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n45",
-   "type": "file",
-   "x": 780,
-   "y": 1675,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C03 多维随机变量及其分布/P01 联合分布、边缘分布与独立性/K19 二维均匀分布与区域面积法.md"
-  },
-  {
-   "id": "n46",
-   "type": "text",
-   "x": 1130,
-   "y": 1670,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n47",
-   "type": "file",
-   "x": 380,
-   "y": 1770,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C03 多维随机变量及其分布/P02 二维随机变量函数的分布/P02 二维随机变量函数的分布.md"
-  },
-  {
-   "id": "n48",
-   "type": "file",
-   "x": 780,
-   "y": 1760,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C03 多维随机变量及其分布/P02 二维随机变量函数的分布/K20 和的分布（卷积公式）.md"
-  },
-  {
-   "id": "n49",
-   "type": "text",
-   "x": 1130,
-   "y": 1755,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n50",
-   "type": "file",
-   "x": 780,
-   "y": 1845,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C03 多维随机变量及其分布/P02 二维随机变量函数的分布/K21 最大值与最小值的分布.md"
-  },
-  {
-   "id": "n51",
-   "type": "text",
-   "x": 1130,
-   "y": 1840,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n52",
-   "type": "file",
-   "x": 380,
-   "y": 1940,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C03 多维随机变量及其分布/P03 次序统计量/P03 次序统计量.md"
-  },
-  {
-   "id": "n53",
-   "type": "file",
-   "x": 780,
-   "y": 1930,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C03 多维随机变量及其分布/P03 次序统计量/K22 次序统计量的分布与期望.md"
-  },
-  {
-   "id": "n54",
-   "type": "text",
-   "x": 1130,
-   "y": 1925,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n55",
-   "type": "file",
-   "x": 0,
-   "y": 2090,
-   "width": 300,
-   "height": 70,
-   "color": "1",
-   "file": "C04 随机变量的数字特征/C04 随机变量的数字特征.md"
-  },
-  {
-   "id": "n56",
-   "type": "file",
-   "x": 380,
-   "y": 2085,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C04 随机变量的数字特征/P01 期望与方差/P01 期望与方差.md"
-  },
-  {
-   "id": "n57",
-   "type": "file",
-   "x": 780,
-   "y": 2075,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C04 随机变量的数字特征/P01 期望与方差/K23 数学期望的定义与性质.md"
-  },
-  {
-   "id": "n58",
-   "type": "text",
-   "x": 1130,
-   "y": 2070,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n59",
-   "type": "file",
-   "x": 780,
-   "y": 2160,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C04 随机变量的数字特征/P01 期望与方差/K24 方差、标准差与方差性质.md"
-  },
-  {
-   "id": "n60",
-   "type": "text",
-   "x": 1130,
-   "y": 2155,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n61",
-   "type": "file",
-   "x": 380,
-   "y": 2255,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C04 随机变量的数字特征/P02 协方差、相关系数与矩/P02 协方差、相关系数与矩.md"
-  },
-  {
-   "id": "n62",
-   "type": "file",
-   "x": 780,
-   "y": 2245,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C04 随机变量的数字特征/P02 协方差、相关系数与矩/K25 协方差与相关系数.md"
-  },
-  {
-   "id": "n63",
-   "type": "text",
-   "x": 1130,
-   "y": 2240,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n64",
-   "type": "file",
-   "x": 780,
-   "y": 2330,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C04 随机变量的数字特征/P02 协方差、相关系数与矩/K26 矩、切比雪夫不等式与非负随机变量期望公式.md"
-  },
-  {
-   "id": "n65",
-   "type": "text",
-   "x": 1130,
-   "y": 2325,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n66",
-   "type": "file",
-   "x": 0,
-   "y": 2490,
-   "width": 300,
-   "height": 70,
-   "color": "1",
-   "file": "C05 大数定律与中心极限定理/C05 大数定律与中心极限定理.md"
-  },
-  {
-   "id": "n67",
-   "type": "file",
-   "x": 380,
-   "y": 2485,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C05 大数定律与中心极限定理/P01 大数定律/P01 大数定律.md"
-  },
-  {
-   "id": "n68",
-   "type": "file",
-   "x": 780,
-   "y": 2475,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C05 大数定律与中心极限定理/P01 大数定律/K27 大数定律.md"
-  },
-  {
-   "id": "n69",
-   "type": "file",
-   "x": 380,
-   "y": 2570,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C05 大数定律与中心极限定理/P02 中心极限定理/P02 中心极限定理.md"
-  },
-  {
-   "id": "n70",
-   "type": "file",
-   "x": 780,
-   "y": 2560,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C05 大数定律与中心极限定理/P02 中心极限定理/K28 中心极限定理与正态近似.md"
-  },
-  {
-   "id": "n71",
-   "type": "text",
-   "x": 1130,
-   "y": 2555,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n72",
-   "type": "file",
-   "x": 0,
-   "y": 2720,
-   "width": 300,
-   "height": 70,
-   "color": "1",
-   "file": "C06 数理统计基本概念与抽样分布/C06 数理统计基本概念与抽样分布.md"
-  },
-  {
-   "id": "n73",
-   "type": "file",
-   "x": 380,
-   "y": 2715,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C06 数理统计基本概念与抽样分布/P01 总体、样本与统计量/P01 总体、样本与统计量.md"
-  },
-  {
-   "id": "n74",
-   "type": "file",
-   "x": 780,
-   "y": 2705,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C06 数理统计基本概念与抽样分布/P01 总体、样本与统计量/K29 统计量的概念与常用统计量.md"
-  },
-  {
-   "id": "n75",
-   "type": "file",
-   "x": 380,
-   "y": 2800,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C06 数理统计基本概念与抽样分布/P02 三大抽样分布/P02 三大抽样分布.md"
-  },
-  {
-   "id": "n76",
-   "type": "file",
-   "x": 780,
-   "y": 2790,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C06 数理统计基本概念与抽样分布/P02 三大抽样分布/K30 χ²分布、t分布、F分布的构造与自由度.md"
-  },
-  {
-   "id": "n77",
-   "type": "text",
-   "x": 1130,
-   "y": 2785,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n78",
-   "type": "file",
-   "x": 380,
-   "y": 2885,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C06 数理统计基本概念与抽样分布/P03 正态总体的抽样分布/P03 正态总体的抽样分布.md"
-  },
-  {
-   "id": "n79",
-   "type": "file",
-   "x": 780,
-   "y": 2875,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C06 数理统计基本概念与抽样分布/P03 正态总体的抽样分布/K31 样本均值与样本方差的分布.md"
-  },
-  {
-   "id": "n80",
-   "type": "text",
-   "x": 1130,
-   "y": 2870,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n81",
-   "type": "file",
-   "x": 0,
-   "y": 3035,
-   "width": 300,
-   "height": 70,
-   "color": "1",
-   "file": "C07 参数估计·点估计方法/C07 参数估计·点估计方法.md"
-  },
-  {
-   "id": "n82",
-   "type": "file",
-   "x": 380,
-   "y": 3030,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C07 参数估计·点估计方法/P01 矩估计/P01 矩估计.md"
-  },
-  {
-   "id": "n83",
-   "type": "file",
-   "x": 780,
-   "y": 3020,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C07 参数估计·点估计方法/P01 矩估计/K32 矩估计法.md"
-  },
-  {
-   "id": "n84",
-   "type": "text",
-   "x": 1130,
-   "y": 3015,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n85",
-   "type": "file",
-   "x": 380,
-   "y": 3115,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C07 参数估计·点估计方法/P02 最大似然估计/P02 最大似然估计.md"
-  },
-  {
-   "id": "n86",
-   "type": "file",
-   "x": 780,
-   "y": 3105,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C07 参数估计·点估计方法/P02 最大似然估计/K33 最大似然估计法.md"
-  },
-  {
-   "id": "n87",
-   "type": "text",
-   "x": 1130,
-   "y": 3100,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n88",
-   "type": "file",
-   "x": 380,
-   "y": 3200,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C07 参数估计·点估计方法/P03 大样本性质/P03 大样本性质.md"
-  },
-  {
-   "id": "n89",
-   "type": "file",
-   "x": 780,
-   "y": 3190,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C07 参数估计·点估计方法/P03 大样本性质/K34 相合性（一致性）.md"
-  },
-  {
-   "id": "n90",
-   "type": "text",
-   "x": 1130,
-   "y": 3185,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n91",
-   "type": "file",
-   "x": 0,
-   "y": 3350,
-   "width": 300,
-   "height": 70,
-   "color": "1",
-   "file": "C08 估计量的评价标准/C08 估计量的评价标准.md"
-  },
-  {
-   "id": "n92",
-   "type": "file",
-   "x": 380,
-   "y": 3345,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C08 估计量的评价标准/P01 无偏性与有效性/P01 无偏性与有效性.md"
-  },
-  {
-   "id": "n93",
-   "type": "file",
-   "x": 780,
-   "y": 3335,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C08 估计量的评价标准/P01 无偏性与有效性/K35 无偏估计与无偏性修正.md"
-  },
-  {
-   "id": "n94",
-   "type": "text",
-   "x": 1130,
-   "y": 3330,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n95",
-   "type": "file",
-   "x": 780,
-   "y": 3420,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C08 估计量的评价标准/P01 无偏性与有效性/K36 有效性与最小方差.md"
-  },
-  {
-   "id": "n96",
-   "type": "text",
-   "x": 1130,
-   "y": 3415,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n97",
-   "type": "file",
-   "x": 380,
-   "y": 3515,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C08 估计量的评价标准/P02 充分统计量与信息量/P02 充分统计量与信息量.md"
-  },
-  {
-   "id": "n98",
-   "type": "file",
-   "x": 780,
-   "y": 3505,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C08 估计量的评价标准/P02 充分统计量与信息量/K37 充分统计量.md"
-  },
-  {
-   "id": "n99",
-   "type": "file",
-   "x": 780,
-   "y": 3590,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C08 估计量的评价标准/P02 充分统计量与信息量/K38 Fisher信息量与C-R下界.md"
-  },
-  {
-   "id": "n100",
-   "type": "text",
-   "x": 1130,
-   "y": 3585,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n101",
-   "type": "file",
-   "x": 0,
-   "y": 3750,
-   "width": 300,
-   "height": 70,
-   "color": "1",
-   "file": "C09 区间估计/C09 区间估计.md"
-  },
-  {
-   "id": "n102",
-   "type": "file",
-   "x": 380,
-   "y": 3745,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C09 区间估计/P01 单总体参数的区间估计/P01 单总体参数的区间估计.md"
-  },
-  {
-   "id": "n103",
-   "type": "file",
-   "x": 780,
-   "y": 3735,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C09 区间估计/P01 单总体参数的区间估计/K39 单总体均值的区间估计.md"
-  },
-  {
-   "id": "n104",
-   "type": "text",
-   "x": 1130,
-   "y": 3730,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n105",
-   "type": "file",
-   "x": 780,
-   "y": 3820,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C09 区间估计/P01 单总体参数的区间估计/K40 总体比例与方差的区间估计.md"
-  },
-  {
-   "id": "n106",
-   "type": "text",
-   "x": 1130,
-   "y": 3815,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n107",
-   "type": "file",
-   "x": 380,
-   "y": 3915,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C09 区间估计/P02 双总体与样本容量/P02 双总体与样本容量.md"
-  },
-  {
-   "id": "n108",
-   "type": "file",
-   "x": 780,
-   "y": 3905,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C09 区间估计/P02 双总体与样本容量/K41 两总体均值差与方差比的区间估计.md"
-  },
-  {
-   "id": "n109",
-   "type": "file",
-   "x": 780,
-   "y": 3990,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C09 区间估计/P02 双总体与样本容量/K42 样本容量与区间长度.md"
-  },
-  {
-   "id": "n110",
-   "type": "text",
-   "x": 1130,
-   "y": 3985,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n111",
-   "type": "file",
-   "x": 0,
-   "y": 4150,
-   "width": 300,
-   "height": 70,
-   "color": "1",
-   "file": "C10 假设检验/C10 假设检验.md"
-  },
-  {
-   "id": "n112",
-   "type": "file",
-   "x": 380,
-   "y": 4145,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C10 假设检验/P01 基本思想与两类错误/P01 基本思想与两类错误.md"
-  },
-  {
-   "id": "n113",
-   "type": "file",
-   "x": 780,
-   "y": 4135,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C10 假设检验/P01 基本思想与两类错误/K43 假设检验的基本思想、显著性水平与两类错误.md"
-  },
-  {
-   "id": "n114",
-   "type": "text",
-   "x": 1130,
-   "y": 4130,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n115",
-   "type": "file",
-   "x": 780,
-   "y": 4220,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C10 假设检验/P01 基本思想与两类错误/K44 功效函数与p值.md"
-  },
-  {
-   "id": "n116",
-   "type": "file",
-   "x": 380,
-   "y": 4315,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C10 假设检验/P02 参数检验/P02 参数检验.md"
-  },
-  {
-   "id": "n117",
-   "type": "file",
-   "x": 780,
-   "y": 4305,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C10 假设检验/P02 参数检验/K45 单总体均值检验（Z检验与t检验）.md"
-  },
-  {
-   "id": "n118",
-   "type": "text",
-   "x": 1130,
-   "y": 4300,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n119",
-   "type": "file",
-   "x": 780,
-   "y": 4390,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C10 假设检验/P02 参数检验/K46 双总体均值差检验与方差齐性检验.md"
-  },
-  {
-   "id": "n120",
-   "type": "text",
-   "x": 1130,
-   "y": 4385,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n121",
-   "type": "file",
-   "x": 380,
-   "y": 4485,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C10 假设检验/P03 检验的构造/P03 检验的构造.md"
-  },
-  {
-   "id": "n122",
-   "type": "file",
-   "x": 780,
-   "y": 4475,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C10 假设检验/P03 检验的构造/K47 拒绝域的构造与势函数计算.md"
-  },
-  {
-   "id": "n123",
-   "type": "text",
-   "x": 1130,
-   "y": 4470,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n124",
-   "type": "file",
-   "x": 0,
-   "y": 4635,
-   "width": 300,
-   "height": 70,
-   "color": "1",
-   "file": "C11 方差分析/C11 方差分析.md"
-  },
-  {
-   "id": "n125",
-   "type": "file",
-   "x": 380,
-   "y": 4630,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C11 方差分析/P01 单因素方差分析/P01 单因素方差分析.md"
-  },
-  {
-   "id": "n126",
-   "type": "file",
-   "x": 780,
-   "y": 4620,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C11 方差分析/P01 单因素方差分析/K48 方差分析的基本思想与步骤.md"
-  },
-  {
-   "id": "n127",
-   "type": "text",
-   "x": 1130,
-   "y": 4615,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n128",
-   "type": "file",
-   "x": 780,
-   "y": 4705,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C11 方差分析/P01 单因素方差分析/K49 平方和分解与自由度.md"
-  },
-  {
-   "id": "n129",
-   "type": "text",
-   "x": 1130,
-   "y": 4700,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n130",
-   "type": "file",
-   "x": 780,
-   "y": 4790,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C11 方差分析/P01 单因素方差分析/K50 F检验与方差分析表的补全与解释.md"
-  },
-  {
-   "id": "n131",
-   "type": "text",
-   "x": 1130,
-   "y": 4785,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n132",
-   "type": "file",
-   "x": 0,
-   "y": 4950,
-   "width": 300,
-   "height": 70,
-   "color": "1",
-   "file": "C12 回归分析/C12 回归分析.md"
-  },
-  {
-   "id": "n133",
-   "type": "file",
-   "x": 380,
-   "y": 4945,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C12 回归分析/P01 一元线性回归模型/P01 一元线性回归模型.md"
-  },
-  {
-   "id": "n134",
-   "type": "file",
-   "x": 780,
-   "y": 4935,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C12 回归分析/P01 一元线性回归模型/K51 一元线性回归与最小二乘估计.md"
-  },
-  {
-   "id": "n135",
-   "type": "text",
-   "x": 1130,
-   "y": 4930,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n136",
-   "type": "file",
-   "x": 780,
-   "y": 5020,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C12 回归分析/P01 一元线性回归模型/K52 回归模型的基本假定.md"
-  },
-  {
-   "id": "n137",
-   "type": "text",
-   "x": 1130,
-   "y": 5015,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n138",
-   "type": "file",
-   "x": 380,
-   "y": 5115,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C12 回归分析/P02 回归方程的检验与预测/P02 回归方程的检验与预测.md"
-  },
-  {
-   "id": "n139",
-   "type": "file",
-   "x": 780,
-   "y": 5105,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C12 回归分析/P02 回归方程的检验与预测/K53 回归方程的显著性检验与判定系数.md"
-  },
-  {
-   "id": "n140",
-   "type": "text",
-   "x": 1130,
-   "y": 5100,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n141",
-   "type": "file",
-   "x": 780,
-   "y": 5190,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C12 回归分析/P02 回归方程的检验与预测/K54 估计与预测（置信区间与预测区间）.md"
-  },
-  {
-   "id": "n142",
-   "type": "text",
-   "x": 1130,
-   "y": 5185,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n143",
-   "type": "file",
-   "x": 0,
-   "y": 5350,
-   "width": 300,
-   "height": 70,
-   "color": "1",
-   "file": "C13 贝叶斯统计/C13 贝叶斯统计.md"
-  },
-  {
-   "id": "n144",
-   "type": "file",
-   "x": 380,
-   "y": 5345,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C13 贝叶斯统计/P01 先验与后验/P01 先验与后验.md"
-  },
-  {
-   "id": "n145",
-   "type": "file",
-   "x": 780,
-   "y": 5335,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C13 贝叶斯统计/P01 先验与后验/K55 先验分布与共轭先验.md"
-  },
-  {
-   "id": "n146",
-   "type": "text",
-   "x": 1130,
-   "y": 5330,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n147",
-   "type": "file",
-   "x": 780,
-   "y": 5420,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C13 贝叶斯统计/P01 先验与后验/K56 后验分布的计算.md"
-  },
-  {
-   "id": "n148",
-   "type": "file",
-   "x": 380,
-   "y": 5515,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C13 贝叶斯统计/P02 贝叶斯估计/P02 贝叶斯估计.md"
-  },
-  {
-   "id": "n149",
-   "type": "file",
-   "x": 780,
-   "y": 5505,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C13 贝叶斯统计/P02 贝叶斯估计/K57 贝叶斯估计与损失函数.md"
-  },
-  {
-   "id": "n150",
-   "type": "text",
-   "x": 1130,
-   "y": 5500,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n151",
-   "type": "file",
-   "x": 780,
-   "y": 5590,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C13 贝叶斯统计/P02 贝叶斯估计/K58 贝叶斯区间估计与无信息先验.md"
-  },
-  {
-   "id": "n152",
-   "type": "text",
-   "x": 1130,
-   "y": 5585,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n153",
-   "type": "file",
-   "x": 0,
-   "y": 5750,
-   "width": 300,
-   "height": 70,
-   "color": "1",
-   "file": "C14 数据的搜集与概率抽样/C14 数据的搜集与概率抽样.md"
-  },
-  {
-   "id": "n154",
-   "type": "file",
-   "x": 380,
-   "y": 5745,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C14 数据的搜集与概率抽样/P01 统计调查方式/P01 统计调查方式.md"
-  },
-  {
-   "id": "n155",
-   "type": "file",
-   "x": 780,
-   "y": 5735,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C14 数据的搜集与概率抽样/P01 统计调查方式/K59 统计调查方式及其特点.md"
-  },
-  {
-   "id": "n156",
-   "type": "text",
-   "x": 1130,
-   "y": 5730,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n157",
-   "type": "file",
-   "x": 380,
-   "y": 5830,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C14 数据的搜集与概率抽样/P02 概率抽样与非概率抽样/P02 概率抽样与非概率抽样.md"
-  },
-  {
-   "id": "n158",
-   "type": "file",
-   "x": 780,
-   "y": 5820,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C14 数据的搜集与概率抽样/P02 概率抽样与非概率抽样/K60 概率抽样的组织形式与特点.md"
-  },
-  {
-   "id": "n159",
-   "type": "text",
-   "x": 1130,
-   "y": 5815,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n160",
-   "type": "file",
-   "x": 780,
-   "y": 5905,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C14 数据的搜集与概率抽样/P02 概率抽样与非概率抽样/K61 抽样误差与非抽样误差.md"
-  },
-  {
-   "id": "n161",
-   "type": "file",
-   "x": 0,
-   "y": 6065,
-   "width": 300,
-   "height": 70,
-   "color": "1",
-   "file": "C15 数据的图表展示/C15 数据的图表展示.md"
-  },
-  {
-   "id": "n162",
-   "type": "file",
-   "x": 380,
-   "y": 6060,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C15 数据的图表展示/P01 定性数据的图示/P01 定性数据的图示.md"
-  },
-  {
-   "id": "n163",
-   "type": "file",
-   "x": 780,
-   "y": 6050,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C15 数据的图表展示/P01 定性数据的图示/K62 定性数据的图示方法.md"
-  },
-  {
-   "id": "n164",
-   "type": "text",
-   "x": 1130,
-   "y": 6045,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n165",
-   "type": "file",
-   "x": 380,
-   "y": 6145,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C15 数据的图表展示/P02 定量数据的图示/P02 定量数据的图示.md"
-  },
-  {
-   "id": "n166",
-   "type": "file",
-   "x": 780,
-   "y": 6135,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C15 数据的图表展示/P02 定量数据的图示/K63 定量数据的图示.md"
-  },
-  {
-   "id": "n167",
-   "type": "file",
-   "x": 0,
-   "y": 6295,
-   "width": 300,
-   "height": 70,
-   "color": "1",
-   "file": "C16 数据的概括性度量/C16 数据的概括性度量.md"
-  },
-  {
-   "id": "n168",
-   "type": "file",
-   "x": 380,
-   "y": 6290,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C16 数据的概括性度量/P01 集中趋势/P01 集中趋势.md"
-  },
-  {
-   "id": "n169",
-   "type": "file",
-   "x": 780,
-   "y": 6280,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C16 数据的概括性度量/P01 集中趋势/K64 算术平均数、中位数、众数及其关系.md"
-  },
-  {
-   "id": "n170",
-   "type": "text",
-   "x": 1130,
-   "y": 6275,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n171",
-   "type": "file",
-   "x": 380,
-   "y": 6375,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C16 数据的概括性度量/P02 离散程度/P02 离散程度.md"
-  },
-  {
-   "id": "n172",
-   "type": "file",
-   "x": 780,
-   "y": 6365,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C16 数据的概括性度量/P02 离散程度/K65 极差、方差、标准差与离散系数.md"
-  },
-  {
-   "id": "n173",
-   "type": "text",
-   "x": 1130,
-   "y": 6360,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n174",
-   "type": "file",
-   "x": 380,
-   "y": 6460,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C16 数据的概括性度量/P03 分布形状/P03 分布形状.md"
-  },
-  {
-   "id": "n175",
-   "type": "file",
-   "x": 780,
-   "y": 6450,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C16 数据的概括性度量/P03 分布形状/K66 偏度、峰度与偏态判断.md"
-  },
-  {
-   "id": "n176",
-   "type": "text",
-   "x": 1130,
-   "y": 6445,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n177",
-   "type": "file",
-   "x": 0,
-   "y": 6610,
-   "width": 300,
-   "height": 70,
-   "color": "1",
-   "file": "C17 时间序列分析与预测/C17 时间序列分析与预测.md"
-  },
-  {
-   "id": "n178",
-   "type": "file",
-   "x": 380,
-   "y": 6605,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C17 时间序列分析与预测/P01 时间序列的构成/P01 时间序列的构成.md"
-  },
-  {
-   "id": "n179",
-   "type": "file",
-   "x": 780,
-   "y": 6595,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C17 时间序列分析与预测/P01 时间序列的构成/K67 时间序列的构成要素与分解.md"
-  },
-  {
-   "id": "n180",
-   "type": "text",
-   "x": 1130,
-   "y": 6590,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n181",
-   "type": "file",
-   "x": 380,
-   "y": 6690,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C17 时间序列分析与预测/P02 速度指标/P02 速度指标.md"
-  },
-  {
-   "id": "n182",
-   "type": "file",
-   "x": 780,
-   "y": 6680,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C17 时间序列分析与预测/P02 速度指标/K68 发展速度、增长速度与平均发展速度.md"
-  },
-  {
-   "id": "n183",
-   "type": "text",
-   "x": 1130,
-   "y": 6675,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n184",
-   "type": "file",
-   "x": 380,
-   "y": 6775,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C17 时间序列分析与预测/P03 季节变动与趋势预测/P03 季节变动与趋势预测.md"
-  },
-  {
-   "id": "n185",
-   "type": "file",
-   "x": 780,
-   "y": 6765,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C17 时间序列分析与预测/P03 季节变动与趋势预测/K69 季节指数与季节调整.md"
-  },
-  {
-   "id": "n186",
-   "type": "text",
-   "x": 1130,
-   "y": 6760,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n187",
-   "type": "file",
-   "x": 780,
-   "y": 6850,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C17 时间序列分析与预测/P03 季节变动与趋势预测/K70 时间序列模型选择与预测（趋势模型与ARMA）.md"
-  },
-  {
-   "id": "n188",
-   "type": "text",
-   "x": 1130,
-   "y": 6845,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n189",
-   "type": "file",
-   "x": 0,
-   "y": 7010,
-   "width": 300,
-   "height": 70,
-   "color": "1",
-   "file": "C18 统计指数/C18 统计指数.md"
-  },
-  {
-   "id": "n190",
-   "type": "file",
-   "x": 380,
-   "y": 7005,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C18 统计指数/P01 综合指数/P01 综合指数.md"
-  },
-  {
-   "id": "n191",
-   "type": "file",
-   "x": 780,
-   "y": 6995,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C18 统计指数/P01 综合指数/K71 综合指数与平均指数.md"
-  },
-  {
-   "id": "n192",
-   "type": "file",
-   "x": 380,
-   "y": 7090,
-   "width": 300,
-   "height": 60,
-   "color": "3",
-   "file": "C18 统计指数/P02 指数体系与因素分析/P02 指数体系与因素分析.md"
-  },
-  {
-   "id": "n193",
-   "type": "file",
-   "x": 780,
-   "y": 7080,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C18 统计指数/P02 指数体系与因素分析/K72 指数体系与因素分析.md"
-  },
-  {
-   "id": "n194",
-   "type": "text",
-   "x": 1130,
-   "y": 7075,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  },
-  {
-   "id": "n195",
-   "type": "file",
-   "x": 780,
-   "y": 7165,
-   "width": 320,
-   "height": 50,
-   "color": "6",
-   "file": "C18 统计指数/P02 指数体系与因素分析/K73 平均数变动的因素分解.md"
-  },
-  {
-   "id": "n196",
-   "type": "text",
-   "x": 1130,
-   "y": 7160,
-   "width": 70,
-   "height": 32,
-   "text": ""
-  }
- ],
- "edges": [
-  {
-   "id": "e1",
-   "fromNode": "n1",
-   "toNode": "n2",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e2",
-   "fromNode": "n2",
-   "toNode": "n3",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e3",
-   "fromNode": "n2",
-   "toNode": "n5",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e4",
-   "fromNode": "n2",
-   "toNode": "n7",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e5",
-   "fromNode": "n2",
-   "toNode": "n9",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e6",
-   "fromNode": "n1",
-   "toNode": "n11",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e7",
-   "fromNode": "n11",
-   "toNode": "n12",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e8",
-   "fromNode": "n11",
-   "toNode": "n14",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e9",
-   "fromNode": "n11",
-   "toNode": "n15",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e10",
-   "fromNode": "n17",
-   "toNode": "n18",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e11",
-   "fromNode": "n18",
-   "toNode": "n19",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e12",
-   "fromNode": "n18",
-   "toNode": "n21",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e13",
-   "fromNode": "n17",
-   "toNode": "n23",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e14",
-   "fromNode": "n23",
-   "toNode": "n24",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e15",
-   "fromNode": "n23",
-   "toNode": "n26",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e16",
-   "fromNode": "n17",
-   "toNode": "n28",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e17",
-   "fromNode": "n28",
-   "toNode": "n29",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e18",
-   "fromNode": "n28",
-   "toNode": "n30",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e19",
-   "fromNode": "n28",
-   "toNode": "n32",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e20",
-   "fromNode": "n28",
-   "toNode": "n34",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e21",
-   "fromNode": "n17",
-   "toNode": "n36",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e22",
-   "fromNode": "n36",
-   "toNode": "n37",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e23",
-   "fromNode": "n39",
-   "toNode": "n40",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e24",
-   "fromNode": "n40",
-   "toNode": "n41",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e25",
-   "fromNode": "n40",
-   "toNode": "n43",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e26",
-   "fromNode": "n40",
-   "toNode": "n45",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e27",
-   "fromNode": "n39",
-   "toNode": "n47",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e28",
-   "fromNode": "n47",
-   "toNode": "n48",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e29",
-   "fromNode": "n47",
-   "toNode": "n50",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e30",
-   "fromNode": "n39",
-   "toNode": "n52",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e31",
-   "fromNode": "n52",
-   "toNode": "n53",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e32",
-   "fromNode": "n55",
-   "toNode": "n56",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e33",
-   "fromNode": "n56",
-   "toNode": "n57",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e34",
-   "fromNode": "n56",
-   "toNode": "n59",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e35",
-   "fromNode": "n55",
-   "toNode": "n61",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e36",
-   "fromNode": "n61",
-   "toNode": "n62",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e37",
-   "fromNode": "n61",
-   "toNode": "n64",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e38",
-   "fromNode": "n66",
-   "toNode": "n67",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e39",
-   "fromNode": "n67",
-   "toNode": "n68",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e40",
-   "fromNode": "n66",
-   "toNode": "n69",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e41",
-   "fromNode": "n69",
-   "toNode": "n70",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e42",
-   "fromNode": "n72",
-   "toNode": "n73",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e43",
-   "fromNode": "n73",
-   "toNode": "n74",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e44",
-   "fromNode": "n72",
-   "toNode": "n75",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e45",
-   "fromNode": "n75",
-   "toNode": "n76",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e46",
-   "fromNode": "n72",
-   "toNode": "n78",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e47",
-   "fromNode": "n78",
-   "toNode": "n79",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e48",
-   "fromNode": "n81",
-   "toNode": "n82",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e49",
-   "fromNode": "n82",
-   "toNode": "n83",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e50",
-   "fromNode": "n81",
-   "toNode": "n85",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e51",
-   "fromNode": "n85",
-   "toNode": "n86",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e52",
-   "fromNode": "n81",
-   "toNode": "n88",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e53",
-   "fromNode": "n88",
-   "toNode": "n89",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e54",
-   "fromNode": "n91",
-   "toNode": "n92",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e55",
-   "fromNode": "n92",
-   "toNode": "n93",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e56",
-   "fromNode": "n92",
-   "toNode": "n95",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e57",
-   "fromNode": "n91",
-   "toNode": "n97",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e58",
-   "fromNode": "n97",
-   "toNode": "n98",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e59",
-   "fromNode": "n97",
-   "toNode": "n99",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e60",
-   "fromNode": "n101",
-   "toNode": "n102",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e61",
-   "fromNode": "n102",
-   "toNode": "n103",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e62",
-   "fromNode": "n102",
-   "toNode": "n105",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e63",
-   "fromNode": "n101",
-   "toNode": "n107",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e64",
-   "fromNode": "n107",
-   "toNode": "n108",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e65",
-   "fromNode": "n107",
-   "toNode": "n109",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e66",
-   "fromNode": "n111",
-   "toNode": "n112",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e67",
-   "fromNode": "n112",
-   "toNode": "n113",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e68",
-   "fromNode": "n112",
-   "toNode": "n115",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e69",
-   "fromNode": "n111",
-   "toNode": "n116",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e70",
-   "fromNode": "n116",
-   "toNode": "n117",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e71",
-   "fromNode": "n116",
-   "toNode": "n119",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e72",
-   "fromNode": "n111",
-   "toNode": "n121",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e73",
-   "fromNode": "n121",
-   "toNode": "n122",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e74",
-   "fromNode": "n124",
-   "toNode": "n125",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e75",
-   "fromNode": "n125",
-   "toNode": "n126",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e76",
-   "fromNode": "n125",
-   "toNode": "n128",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e77",
-   "fromNode": "n125",
-   "toNode": "n130",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e78",
-   "fromNode": "n132",
-   "toNode": "n133",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e79",
-   "fromNode": "n133",
-   "toNode": "n134",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e80",
-   "fromNode": "n133",
-   "toNode": "n136",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e81",
-   "fromNode": "n132",
-   "toNode": "n138",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e82",
-   "fromNode": "n138",
-   "toNode": "n139",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e83",
-   "fromNode": "n138",
-   "toNode": "n141",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e84",
-   "fromNode": "n143",
-   "toNode": "n144",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e85",
-   "fromNode": "n144",
-   "toNode": "n145",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e86",
-   "fromNode": "n144",
-   "toNode": "n147",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e87",
-   "fromNode": "n143",
-   "toNode": "n148",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e88",
-   "fromNode": "n148",
-   "toNode": "n149",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e89",
-   "fromNode": "n148",
-   "toNode": "n151",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e90",
-   "fromNode": "n153",
-   "toNode": "n154",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e91",
-   "fromNode": "n154",
-   "toNode": "n155",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e92",
-   "fromNode": "n153",
-   "toNode": "n157",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e93",
-   "fromNode": "n157",
-   "toNode": "n158",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e94",
-   "fromNode": "n157",
-   "toNode": "n160",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e95",
-   "fromNode": "n161",
-   "toNode": "n162",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e96",
-   "fromNode": "n162",
-   "toNode": "n163",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e97",
-   "fromNode": "n161",
-   "toNode": "n165",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e98",
-   "fromNode": "n165",
-   "toNode": "n166",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e99",
-   "fromNode": "n167",
-   "toNode": "n168",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e100",
-   "fromNode": "n168",
-   "toNode": "n169",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e101",
-   "fromNode": "n167",
-   "toNode": "n171",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e102",
-   "fromNode": "n171",
-   "toNode": "n172",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e103",
-   "fromNode": "n167",
-   "toNode": "n174",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e104",
-   "fromNode": "n174",
-   "toNode": "n175",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e105",
-   "fromNode": "n177",
-   "toNode": "n178",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e106",
-   "fromNode": "n178",
-   "toNode": "n179",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e107",
-   "fromNode": "n177",
-   "toNode": "n181",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e108",
-   "fromNode": "n181",
-   "toNode": "n182",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e109",
-   "fromNode": "n177",
-   "toNode": "n184",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e110",
-   "fromNode": "n184",
-   "toNode": "n185",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e111",
-   "fromNode": "n184",
-   "toNode": "n187",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e112",
-   "fromNode": "n189",
-   "toNode": "n190",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e113",
-   "fromNode": "n190",
-   "toNode": "n191",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e114",
-   "fromNode": "n189",
-   "toNode": "n192",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "4"
-  },
-  {
-   "id": "e115",
-   "fromNode": "n192",
-   "toNode": "n193",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  },
-  {
-   "id": "e116",
-   "fromNode": "n192",
-   "toNode": "n195",
-   "fromSide": "right",
-   "toSide": "left",
-   "color": "5"
-  }
- ]
+	"nodes":[
+		{"id":"n1","type":"file","x":0,"y":40,"width":300,"height":70,"color":"1","file":"C01 随机事件与概率/C01 随机事件与概率.md"},
+		{"id":"n2","type":"file","x":380,"y":35,"width":300,"height":60,"color":"3","file":"C01 随机事件与概率/第01章 事件与概率的基本概念/第01章 事件与概率的基本概念.md"},
+		{"id":"n3","type":"file","x":780,"y":25,"width":320,"height":50,"color":"6","file":"C01 随机事件与概率/第01章 事件与概率的基本概念/K01 样本空间、事件的关系与运算/K01 样本空间、事件的关系与运算.md"},
+		{"id":"n4","type":"text","x":1130,"y":20,"width":70,"height":32,"text":""},
+		{"id":"n5","type":"file","x":780,"y":110,"width":320,"height":50,"color":"6","file":"C01 随机事件与概率/第01章 事件与概率的基本概念/K02 概率的公理化与加法公式/K02 概率的公理化与加法公式.md"},
+		{"id":"n6","type":"text","x":1130,"y":105,"width":70,"height":32,"text":""},
+		{"id":"n7","type":"file","x":780,"y":195,"width":320,"height":50,"color":"6","file":"C01 随机事件与概率/第01章 事件与概率的基本概念/K03 古典概型与排列组合计数/K03 古典概型与排列组合计数.md"},
+		{"id":"n8","type":"text","x":1130,"y":190,"width":70,"height":32,"text":""},
+		{"id":"n9","type":"file","x":780,"y":280,"width":320,"height":50,"color":"6","file":"C01 随机事件与概率/第01章 事件与概率的基本概念/K04 几何概型/K04 几何概型.md"},
+		{"id":"n10","type":"text","x":1130,"y":275,"width":70,"height":32,"text":""},
+		{"id":"n11","type":"file","x":380,"y":375,"width":300,"height":60,"color":"3","file":"C01 随机事件与概率/第02章 条件概率与事件的独立性/第02章 条件概率与事件的独立性.md"},
+		{"id":"n12","type":"file","x":780,"y":365,"width":320,"height":50,"color":"6","file":"C01 随机事件与概率/第02章 条件概率与事件的独立性/K05 条件概率、乘法公式与全概率公式/K05 条件概率、乘法公式与全概率公式.md"},
+		{"id":"n13","type":"text","x":1130,"y":360,"width":70,"height":32,"text":""},
+		{"id":"n14","type":"file","x":780,"y":450,"width":320,"height":50,"color":"6","file":"C01 随机事件与概率/第02章 条件概率与事件的独立性/K06 贝叶斯公式与逆概率/K06 贝叶斯公式与逆概率.md"},
+		{"id":"n15","type":"file","x":780,"y":535,"width":320,"height":50,"color":"6","file":"C01 随机事件与概率/第02章 条件概率与事件的独立性/K07 事件的独立性与两两独立/K07 事件的独立性与两两独立.md"},
+		{"id":"n16","type":"text","x":1130,"y":530,"width":70,"height":32,"text":""},
+		{"id":"n17","type":"file","x":0,"y":695,"width":300,"height":70,"color":"1","file":"C02 一维随机变量及其分布/C02 一维随机变量及其分布.md"},
+		{"id":"n18","type":"file","x":380,"y":690,"width":300,"height":60,"color":"3","file":"C02 一维随机变量及其分布/第01章 分布函数与密度函数/第01章 分布函数与密度函数.md"},
+		{"id":"n19","type":"file","x":780,"y":680,"width":320,"height":50,"color":"6","file":"C02 一维随机变量及其分布/第01章 分布函数与密度函数/K08 分布函数的性质与参数确定/K08 分布函数的性质与参数确定.md"},
+		{"id":"n20","type":"text","x":1130,"y":675,"width":70,"height":32,"text":""},
+		{"id":"n21","type":"file","x":780,"y":765,"width":320,"height":50,"color":"6","file":"C02 一维随机变量及其分布/第01章 分布函数与密度函数/K09 密度函数的性质与规范性检验/K09 密度函数的性质与规范性检验.md"},
+		{"id":"n22","type":"text","x":1130,"y":760,"width":70,"height":32,"text":""},
+		{"id":"n23","type":"file","x":380,"y":860,"width":300,"height":60,"color":"3","file":"C02 一维随机变量及其分布/第02章 离散型随机变量与常见分布/第02章 离散型随机变量与常见分布.md"},
+		{"id":"n24","type":"file","x":780,"y":850,"width":320,"height":50,"color":"6","file":"C02 一维随机变量及其分布/第02章 离散型随机变量与常见分布/K10 0-1分布、二项分布与几何分布/K10 0-1分布、二项分布与几何分布.md"},
+		{"id":"n25","type":"text","x":1130,"y":845,"width":70,"height":32,"text":""},
+		{"id":"n26","type":"file","x":780,"y":935,"width":320,"height":50,"color":"6","file":"C02 一维随机变量及其分布/第02章 离散型随机变量与常见分布/K11 泊松分布及其可加性/K11 泊松分布及其可加性.md"},
+		{"id":"n27","type":"text","x":1130,"y":930,"width":70,"height":32,"text":""},
+		{"id":"n28","type":"file","x":380,"y":1030,"width":300,"height":60,"color":"3","file":"C02 一维随机变量及其分布/第03章 连续型随机变量与常见分布/第03章 连续型随机变量与常见分布.md"},
+		{"id":"n29","type":"file","x":780,"y":1020,"width":320,"height":50,"color":"6","file":"C02 一维随机变量及其分布/第03章 连续型随机变量与常见分布/K12 均匀分布/K12 均匀分布.md"},
+		{"id":"n30","type":"file","x":780,"y":1105,"width":320,"height":50,"color":"6","file":"C02 一维随机变量及其分布/第03章 连续型随机变量与常见分布/K13 指数分布与无记忆性/K13 指数分布与无记忆性.md"},
+		{"id":"n31","type":"text","x":1130,"y":1100,"width":70,"height":32,"text":""},
+		{"id":"n32","type":"file","x":780,"y":1190,"width":320,"height":50,"color":"6","file":"C02 一维随机变量及其分布/第03章 连续型随机变量与常见分布/K14 正态分布及标准化/K14 正态分布及标准化.md"},
+		{"id":"n33","type":"text","x":1130,"y":1185,"width":70,"height":32,"text":""},
+		{"id":"n34","type":"file","x":780,"y":1275,"width":320,"height":50,"color":"6","file":"C02 一维随机变量及其分布/第03章 连续型随机变量与常见分布/K15 伽马分布、贝塔分布与χ²分布/K15 伽马分布、贝塔分布与χ²分布.md"},
+		{"id":"n35","type":"text","x":1130,"y":1270,"width":70,"height":32,"text":""},
+		{"id":"n36","type":"file","x":380,"y":1370,"width":300,"height":60,"color":"3","file":"C02 一维随机变量及其分布/第04章 随机变量函数的分布/第04章 随机变量函数的分布.md"},
+		{"id":"n37","type":"file","x":780,"y":1360,"width":320,"height":50,"color":"6","file":"C02 一维随机变量及其分布/第04章 随机变量函数的分布/K16 一维随机变量函数的分布/K16 一维随机变量函数的分布.md"},
+		{"id":"n38","type":"text","x":1130,"y":1355,"width":70,"height":32,"text":""},
+		{"id":"n39","type":"file","x":0,"y":1520,"width":300,"height":70,"color":"1","file":"C03 多维随机变量及其分布/C03 多维随机变量及其分布.md"},
+		{"id":"n40","type":"file","x":380,"y":1515,"width":300,"height":60,"color":"3","file":"C03 多维随机变量及其分布/第01章 联合分布、边缘分布与独立性/第01章 联合分布、边缘分布与独立性.md"},
+		{"id":"n41","type":"file","x":780,"y":1505,"width":320,"height":50,"color":"6","file":"C03 多维随机变量及其分布/第01章 联合分布、边缘分布与独立性/K17 联合分布与边缘分布的求解/K17 联合分布与边缘分布的求解.md"},
+		{"id":"n42","type":"text","x":1130,"y":1500,"width":70,"height":32,"text":""},
+		{"id":"n43","type":"file","x":780,"y":1590,"width":320,"height":50,"color":"6","file":"C03 多维随机变量及其分布/第01章 联合分布、边缘分布与独立性/K18 随机变量的独立性与条件分布/K18 随机变量的独立性与条件分布.md"},
+		{"id":"n44","type":"text","x":1130,"y":1585,"width":70,"height":32,"text":""},
+		{"id":"n45","type":"file","x":780,"y":1675,"width":320,"height":50,"color":"6","file":"C03 多维随机变量及其分布/第01章 联合分布、边缘分布与独立性/K19 二维均匀分布与区域面积法/K19 二维均匀分布与区域面积法.md"},
+		{"id":"n46","type":"text","x":1130,"y":1670,"width":70,"height":32,"text":""},
+		{"id":"n47","type":"file","x":380,"y":1770,"width":300,"height":60,"color":"3","file":"C03 多维随机变量及其分布/第02章 二维随机变量函数的分布/第02章 二维随机变量函数的分布.md"},
+		{"id":"n48","type":"file","x":780,"y":1760,"width":320,"height":50,"color":"6","file":"C03 多维随机变量及其分布/第02章 二维随机变量函数的分布/K20 和的分布（卷积公式）/K20 和的分布（卷积公式）.md"},
+		{"id":"n49","type":"text","x":1130,"y":1755,"width":70,"height":32,"text":""},
+		{"id":"n50","type":"file","x":780,"y":1845,"width":320,"height":50,"color":"6","file":"C03 多维随机变量及其分布/第02章 二维随机变量函数的分布/K21 最大值与最小值的分布/K21 最大值与最小值的分布.md"},
+		{"id":"n51","type":"text","x":1130,"y":1840,"width":70,"height":32,"text":""},
+		{"id":"n52","type":"file","x":380,"y":1940,"width":300,"height":60,"color":"3","file":"C03 多维随机变量及其分布/第03章 次序统计量/第03章 次序统计量.md"},
+		{"id":"n53","type":"file","x":780,"y":1930,"width":320,"height":50,"color":"6","file":"C03 多维随机变量及其分布/第03章 次序统计量/K22 次序统计量的分布与期望/K22 次序统计量的分布与期望.md"},
+		{"id":"n54","type":"text","x":1130,"y":1925,"width":70,"height":32,"text":""},
+		{"id":"n55","type":"file","x":0,"y":2090,"width":300,"height":70,"color":"1","file":"C04 随机变量的数字特征/C04 随机变量的数字特征.md"},
+		{"id":"n56","type":"file","x":380,"y":2085,"width":300,"height":60,"color":"3","file":"C04 随机变量的数字特征/第01章 期望与方差/第01章 期望与方差.md"},
+		{"id":"n57","type":"file","x":780,"y":2075,"width":320,"height":50,"color":"6","file":"C04 随机变量的数字特征/第01章 期望与方差/K23 数学期望的定义与性质/K23 数学期望的定义与性质.md"},
+		{"id":"n58","type":"text","x":1130,"y":2070,"width":70,"height":32,"text":""},
+		{"id":"n59","type":"file","x":780,"y":2160,"width":320,"height":50,"color":"6","file":"C04 随机变量的数字特征/第01章 期望与方差/K24 方差、标准差与方差性质/K24 方差、标准差与方差性质.md"},
+		{"id":"n60","type":"text","x":1130,"y":2155,"width":70,"height":32,"text":""},
+		{"id":"n61","type":"file","x":380,"y":2255,"width":300,"height":60,"color":"3","file":"C04 随机变量的数字特征/第02章 协方差、相关系数与矩/第02章 协方差、相关系数与矩.md"},
+		{"id":"n62","type":"file","x":780,"y":2245,"width":320,"height":50,"color":"6","file":"C04 随机变量的数字特征/第02章 协方差、相关系数与矩/K25 协方差与相关系数/K25 协方差与相关系数.md"},
+		{"id":"n63","type":"text","x":1130,"y":2240,"width":70,"height":32,"text":""},
+		{"id":"n64","type":"file","x":780,"y":2330,"width":320,"height":50,"color":"6","file":"C04 随机变量的数字特征/第02章 协方差、相关系数与矩/K26 矩、切比雪夫不等式与非负随机变量期望公式/K26 矩、切比雪夫不等式与非负随机变量期望公式.md"},
+		{"id":"n65","type":"text","x":1130,"y":2325,"width":70,"height":32,"text":""},
+		{"id":"n66","type":"file","x":0,"y":2490,"width":300,"height":70,"color":"1","file":"C05 大数定律与中心极限定理/C05 大数定律与中心极限定理.md"},
+		{"id":"n67","type":"file","x":380,"y":2485,"width":300,"height":60,"color":"3","file":"C05 大数定律与中心极限定理/第01章 大数定律/第01章 大数定律.md"},
+		{"id":"n68","type":"file","x":780,"y":2475,"width":320,"height":50,"color":"6","file":"C05 大数定律与中心极限定理/第01章 大数定律/K27 大数定律/K27 大数定律.md"},
+		{"id":"n69","type":"file","x":380,"y":2570,"width":300,"height":60,"color":"3","file":"C05 大数定律与中心极限定理/第02章 中心极限定理/第02章 中心极限定理.md"},
+		{"id":"n70","type":"file","x":780,"y":2560,"width":320,"height":50,"color":"6","file":"C05 大数定律与中心极限定理/第02章 中心极限定理/K28 中心极限定理与正态近似/K28 中心极限定理与正态近似.md"},
+		{"id":"n71","type":"text","x":1130,"y":2555,"width":70,"height":32,"text":""},
+		{"id":"n72","type":"file","x":0,"y":2720,"width":300,"height":70,"color":"1","file":"C06 数理统计基本概念与抽样分布/C06 数理统计基本概念与抽样分布.md"},
+		{"id":"n73","type":"file","x":380,"y":2715,"width":300,"height":60,"color":"3","file":"C06 数理统计基本概念与抽样分布/第01章 总体、样本与统计量/第01章 总体、样本与统计量.md"},
+		{"id":"n74","type":"file","x":780,"y":2705,"width":320,"height":50,"color":"6","file":"C06 数理统计基本概念与抽样分布/第01章 总体、样本与统计量/K29 统计量的概念与常用统计量/K29 统计量的概念与常用统计量.md"},
+		{"id":"n75","type":"file","x":380,"y":2800,"width":300,"height":60,"color":"3","file":"C06 数理统计基本概念与抽样分布/第02章 三大抽样分布/第02章 三大抽样分布.md"},
+		{"id":"n76","type":"file","x":780,"y":2790,"width":320,"height":50,"color":"6","file":"C06 数理统计基本概念与抽样分布/第02章 三大抽样分布/K30 χ²分布、t分布、F分布的构造与自由度/K30 χ²分布、t分布、F分布的构造与自由度.md"},
+		{"id":"n77","type":"text","x":1130,"y":2785,"width":70,"height":32,"text":""},
+		{"id":"n78","type":"file","x":380,"y":2885,"width":300,"height":60,"color":"3","file":"C06 数理统计基本概念与抽样分布/第03章 正态总体的抽样分布/第03章 正态总体的抽样分布.md"},
+		{"id":"n79","type":"file","x":780,"y":2875,"width":320,"height":50,"color":"6","file":"C06 数理统计基本概念与抽样分布/第03章 正态总体的抽样分布/K31 样本均值与样本方差的分布/K31 样本均值与样本方差的分布.md"},
+		{"id":"n80","type":"text","x":1130,"y":2870,"width":70,"height":32,"text":""},
+		{"id":"n81","type":"file","x":0,"y":3035,"width":300,"height":70,"color":"1","file":"C07 参数估计·点估计方法/C07 参数估计·点估计方法.md"},
+		{"id":"n82","type":"file","x":380,"y":3030,"width":300,"height":60,"color":"3","file":"C07 参数估计·点估计方法/第01章 矩估计/第01章 矩估计.md"},
+		{"id":"n83","type":"file","x":780,"y":3020,"width":320,"height":50,"color":"6","file":"C07 参数估计·点估计方法/第01章 矩估计/K32 矩估计法/K32 矩估计法.md"},
+		{"id":"n84","type":"text","x":1130,"y":3015,"width":70,"height":32,"text":""},
+		{"id":"n85","type":"file","x":380,"y":3115,"width":300,"height":60,"color":"3","file":"C07 参数估计·点估计方法/第02章 最大似然估计/第02章 最大似然估计.md"},
+		{"id":"n86","type":"file","x":780,"y":3105,"width":320,"height":50,"color":"6","file":"C07 参数估计·点估计方法/第02章 最大似然估计/K33 最大似然估计法/K33 最大似然估计法.md"},
+		{"id":"n87","type":"text","x":1130,"y":3100,"width":70,"height":32,"text":""},
+		{"id":"n88","type":"file","x":380,"y":3200,"width":300,"height":60,"color":"3","file":"C07 参数估计·点估计方法/第03章 大样本性质/第03章 大样本性质.md"},
+		{"id":"n89","type":"file","x":780,"y":3190,"width":320,"height":50,"color":"6","file":"C07 参数估计·点估计方法/第03章 大样本性质/K34 相合性（一致性）/K34 相合性（一致性）.md"},
+		{"id":"n90","type":"text","x":1130,"y":3185,"width":70,"height":32,"text":""},
+		{"id":"n91","type":"file","x":0,"y":3350,"width":300,"height":70,"color":"1","file":"C08 估计量的评价标准/C08 估计量的评价标准.md"},
+		{"id":"n92","type":"file","x":380,"y":3345,"width":300,"height":60,"color":"3","file":"C08 估计量的评价标准/第01章 无偏性与有效性/第01章 无偏性与有效性.md"},
+		{"id":"n93","type":"file","x":780,"y":3335,"width":320,"height":50,"color":"6","file":"C08 估计量的评价标准/第01章 无偏性与有效性/K35 无偏估计与无偏性修正/K35 无偏估计与无偏性修正.md"},
+		{"id":"n94","type":"text","x":1130,"y":3330,"width":70,"height":32,"text":""},
+		{"id":"n95","type":"file","x":780,"y":3420,"width":320,"height":50,"color":"6","file":"C08 估计量的评价标准/第01章 无偏性与有效性/K36 有效性与最小方差/K36 有效性与最小方差.md"},
+		{"id":"n96","type":"text","x":1130,"y":3415,"width":70,"height":32,"text":""},
+		{"id":"n97","type":"file","x":380,"y":3515,"width":300,"height":60,"color":"3","file":"C08 估计量的评价标准/第02章 充分统计量与信息量/第02章 充分统计量与信息量.md"},
+		{"id":"n98","type":"file","x":780,"y":3505,"width":320,"height":50,"color":"6","file":"C08 估计量的评价标准/第02章 充分统计量与信息量/K37 充分统计量/K37 充分统计量.md"},
+		{"id":"n99","type":"file","x":780,"y":3590,"width":320,"height":50,"color":"6","file":"C08 估计量的评价标准/第02章 充分统计量与信息量/K38 Fisher信息量与C-R下界/K38 Fisher信息量与C-R下界.md"},
+		{"id":"n100","type":"text","x":1130,"y":3585,"width":70,"height":32,"text":""},
+		{"id":"n101","type":"file","x":0,"y":3750,"width":300,"height":70,"color":"1","file":"C09 区间估计/C09 区间估计.md"},
+		{"id":"n102","type":"file","x":380,"y":3745,"width":300,"height":60,"color":"3","file":"C09 区间估计/第01章 单总体参数的区间估计/第01章 单总体参数的区间估计.md"},
+		{"id":"n103","type":"file","x":780,"y":3735,"width":320,"height":50,"color":"6","file":"C09 区间估计/第01章 单总体参数的区间估计/K39 单总体均值的区间估计/K39 单总体均值的区间估计.md"},
+		{"id":"n104","type":"text","x":1130,"y":3730,"width":70,"height":32,"text":""},
+		{"id":"n105","type":"file","x":780,"y":3820,"width":320,"height":50,"color":"6","file":"C09 区间估计/第01章 单总体参数的区间估计/K40 总体比例与方差的区间估计/K40 总体比例与方差的区间估计.md"},
+		{"id":"n106","type":"text","x":1130,"y":3815,"width":70,"height":32,"text":""},
+		{"id":"n107","type":"file","x":380,"y":3915,"width":300,"height":60,"color":"3","file":"C09 区间估计/第02章 双总体与样本容量/第02章 双总体与样本容量.md"},
+		{"id":"n108","type":"file","x":780,"y":3905,"width":320,"height":50,"color":"6","file":"C09 区间估计/第02章 双总体与样本容量/K41 两总体均值差与方差比的区间估计/K41 两总体均值差与方差比的区间估计.md"},
+		{"id":"n109","type":"file","x":780,"y":3990,"width":320,"height":50,"color":"6","file":"C09 区间估计/第02章 双总体与样本容量/K42 样本容量与区间长度/K42 样本容量与区间长度.md"},
+		{"id":"n110","type":"text","x":1130,"y":3985,"width":70,"height":32,"text":""},
+		{"id":"n111","type":"file","x":0,"y":4150,"width":300,"height":70,"color":"1","file":"C10 假设检验/C10 假设检验.md"},
+		{"id":"n112","type":"file","x":380,"y":4145,"width":300,"height":60,"color":"3","file":"C10 假设检验/第01章 基本思想与两类错误/第01章 基本思想与两类错误.md"},
+		{"id":"n113","type":"file","x":780,"y":4135,"width":320,"height":50,"color":"6","file":"C10 假设检验/第01章 基本思想与两类错误/K43 假设检验的基本思想、显著性水平与两类错误/K43 假设检验的基本思想、显著性水平与两类错误.md"},
+		{"id":"n114","type":"text","x":1130,"y":4130,"width":70,"height":32,"text":""},
+		{"id":"n115","type":"file","x":780,"y":4220,"width":320,"height":50,"color":"6","file":"C10 假设检验/第01章 基本思想与两类错误/K44 功效函数与p值/K44 功效函数与p值.md"},
+		{"id":"n116","type":"file","x":380,"y":4315,"width":300,"height":60,"color":"3","file":"C10 假设检验/第02章 参数检验/第02章 参数检验.md"},
+		{"id":"n117","type":"file","x":780,"y":4305,"width":320,"height":50,"color":"6","file":"C10 假设检验/第02章 参数检验/K45 单总体均值检验（Z检验与t检验）/K45 单总体均值检验（Z检验与t检验）.md"},
+		{"id":"n118","type":"text","x":1130,"y":4300,"width":70,"height":32,"text":""},
+		{"id":"n119","type":"file","x":780,"y":4390,"width":320,"height":50,"color":"6","file":"C10 假设检验/第02章 参数检验/K46 双总体均值差检验与方差齐性检验/K46 双总体均值差检验与方差齐性检验.md"},
+		{"id":"n120","type":"text","x":1130,"y":4385,"width":70,"height":32,"text":""},
+		{"id":"n121","type":"file","x":380,"y":4485,"width":300,"height":60,"color":"3","file":"C10 假设检验/第03章 检验的构造/第03章 检验的构造.md"},
+		{"id":"n122","type":"file","x":780,"y":4475,"width":320,"height":50,"color":"6","file":"C10 假设检验/第03章 检验的构造/K47 拒绝域的构造与势函数计算/K47 拒绝域的构造与势函数计算.md"},
+		{"id":"n123","type":"text","x":1130,"y":4470,"width":70,"height":32,"text":""},
+		{"id":"n124","type":"file","x":0,"y":4635,"width":300,"height":70,"color":"1","file":"C11 方差分析/C11 方差分析.md"},
+		{"id":"n125","type":"file","x":380,"y":4630,"width":300,"height":60,"color":"3","file":"C11 方差分析/第01章 单因素方差分析/第01章 单因素方差分析.md"},
+		{"id":"n126","type":"file","x":780,"y":4620,"width":320,"height":50,"color":"6","file":"C11 方差分析/第01章 单因素方差分析/K48 方差分析的基本思想与步骤/K48 方差分析的基本思想与步骤.md"},
+		{"id":"n127","type":"text","x":1130,"y":4615,"width":70,"height":32,"text":""},
+		{"id":"n128","type":"file","x":780,"y":4705,"width":320,"height":50,"color":"6","file":"C11 方差分析/第01章 单因素方差分析/K49 平方和分解与自由度/K49 平方和分解与自由度.md"},
+		{"id":"n129","type":"text","x":1130,"y":4700,"width":70,"height":32,"text":""},
+		{"id":"n130","type":"file","x":780,"y":4790,"width":320,"height":50,"color":"6","file":"C11 方差分析/第01章 单因素方差分析/K50 F检验与方差分析表的补全与解释/K50 F检验与方差分析表的补全与解释.md"},
+		{"id":"n131","type":"text","x":1130,"y":4785,"width":70,"height":32,"text":""},
+		{"id":"n132","type":"file","x":0,"y":4950,"width":300,"height":70,"color":"1","file":"C12 回归分析/C12 回归分析.md"},
+		{"id":"n133","type":"file","x":380,"y":4945,"width":300,"height":60,"color":"3","file":"C12 回归分析/第01章 一元线性回归模型/第01章 一元线性回归模型.md"},
+		{"id":"n134","type":"file","x":780,"y":4935,"width":320,"height":50,"color":"6","file":"C12 回归分析/第01章 一元线性回归模型/K51 一元线性回归与最小二乘估计/K51 一元线性回归与最小二乘估计.md"},
+		{"id":"n135","type":"text","x":1130,"y":4930,"width":70,"height":32,"text":""},
+		{"id":"n136","type":"file","x":780,"y":5020,"width":320,"height":50,"color":"6","file":"C12 回归分析/第01章 一元线性回归模型/K52 回归模型的基本假定/K52 回归模型的基本假定.md"},
+		{"id":"n137","type":"text","x":1130,"y":5015,"width":70,"height":32,"text":""},
+		{"id":"n138","type":"file","x":380,"y":5115,"width":300,"height":60,"color":"3","file":"C12 回归分析/第02章 回归方程的检验与预测/第02章 回归方程的检验与预测.md"},
+		{"id":"n139","type":"file","x":780,"y":5105,"width":320,"height":50,"color":"6","file":"C12 回归分析/第02章 回归方程的检验与预测/K53 回归方程的显著性检验与判定系数/K53 回归方程的显著性检验与判定系数.md"},
+		{"id":"n140","type":"text","x":1130,"y":5100,"width":70,"height":32,"text":""},
+		{"id":"n141","type":"file","x":780,"y":5190,"width":320,"height":50,"color":"6","file":"C12 回归分析/第02章 回归方程的检验与预测/K54 估计与预测（置信区间与预测区间）/K54 估计与预测（置信区间与预测区间）.md"},
+		{"id":"n142","type":"text","x":1130,"y":5185,"width":70,"height":32,"text":""},
+		{"id":"n143","type":"file","x":0,"y":5350,"width":300,"height":70,"color":"1","file":"C13 贝叶斯统计/C13 贝叶斯统计.md"},
+		{"id":"n144","type":"file","x":380,"y":5345,"width":300,"height":60,"color":"3","file":"C13 贝叶斯统计/第01章 先验与后验/第01章 先验与后验.md"},
+		{"id":"n145","type":"file","x":780,"y":5335,"width":320,"height":50,"color":"6","file":"C13 贝叶斯统计/第01章 先验与后验/K55 先验分布与共轭先验/K55 先验分布与共轭先验.md"},
+		{"id":"n146","type":"text","x":1130,"y":5330,"width":70,"height":32,"text":""},
+		{"id":"n147","type":"file","x":780,"y":5420,"width":320,"height":50,"color":"6","file":"C13 贝叶斯统计/第01章 先验与后验/K56 后验分布的计算/K56 后验分布的计算.md"},
+		{"id":"n148","type":"file","x":380,"y":5515,"width":300,"height":60,"color":"3","file":"C13 贝叶斯统计/第02章 贝叶斯估计/第02章 贝叶斯估计.md"},
+		{"id":"n149","type":"file","x":780,"y":5505,"width":320,"height":50,"color":"6","file":"C13 贝叶斯统计/第02章 贝叶斯估计/K57 贝叶斯估计与损失函数/K57 贝叶斯估计与损失函数.md"},
+		{"id":"n150","type":"text","x":1130,"y":5500,"width":70,"height":32,"text":""},
+		{"id":"n151","type":"file","x":780,"y":5590,"width":320,"height":50,"color":"6","file":"C13 贝叶斯统计/第02章 贝叶斯估计/K58 贝叶斯区间估计与无信息先验/K58 贝叶斯区间估计与无信息先验.md"},
+		{"id":"n152","type":"text","x":1130,"y":5585,"width":70,"height":32,"text":""},
+		{"id":"n153","type":"file","x":0,"y":5750,"width":300,"height":70,"color":"1","file":"C14 数据的搜集与概率抽样/C14 数据的搜集与概率抽样.md"},
+		{"id":"n154","type":"file","x":380,"y":5745,"width":300,"height":60,"color":"3","file":"C14 数据的搜集与概率抽样/第01章 统计调查方式/第01章 统计调查方式.md"},
+		{"id":"n155","type":"file","x":780,"y":5735,"width":320,"height":50,"color":"6","file":"C14 数据的搜集与概率抽样/第01章 统计调查方式/K59 统计调查方式及其特点/K59 统计调查方式及其特点.md"},
+		{"id":"n156","type":"text","x":1130,"y":5730,"width":70,"height":32,"text":""},
+		{"id":"n157","type":"file","x":380,"y":5830,"width":300,"height":60,"color":"3","file":"C14 数据的搜集与概率抽样/第02章 概率抽样与非概率抽样/第02章 概率抽样与非概率抽样.md"},
+		{"id":"n158","type":"file","x":780,"y":5820,"width":320,"height":50,"color":"6","file":"C14 数据的搜集与概率抽样/第02章 概率抽样与非概率抽样/K60 概率抽样的组织形式与特点/K60 概率抽样的组织形式与特点.md"},
+		{"id":"n159","type":"text","x":1130,"y":5815,"width":70,"height":32,"text":""},
+		{"id":"n160","type":"file","x":780,"y":5905,"width":320,"height":50,"color":"6","file":"C14 数据的搜集与概率抽样/第02章 概率抽样与非概率抽样/K61 抽样误差与非抽样误差/K61 抽样误差与非抽样误差.md"},
+		{"id":"n161","type":"file","x":0,"y":6065,"width":300,"height":70,"color":"1","file":"C15 数据的图表展示/C15 数据的图表展示.md"},
+		{"id":"n162","type":"file","x":380,"y":6060,"width":300,"height":60,"color":"3","file":"C15 数据的图表展示/第01章 定性数据的图示/第01章 定性数据的图示.md"},
+		{"id":"n163","type":"file","x":780,"y":6050,"width":320,"height":50,"color":"6","file":"C15 数据的图表展示/第01章 定性数据的图示/K62 定性数据的图示方法/K62 定性数据的图示方法.md"},
+		{"id":"n164","type":"text","x":1130,"y":6045,"width":70,"height":32,"text":""},
+		{"id":"n165","type":"file","x":380,"y":6145,"width":300,"height":60,"color":"3","file":"C15 数据的图表展示/第02章 定量数据的图示/第02章 定量数据的图示.md"},
+		{"id":"n166","type":"file","x":780,"y":6135,"width":320,"height":50,"color":"6","file":"C15 数据的图表展示/第02章 定量数据的图示/K63 定量数据的图示/K63 定量数据的图示.md"},
+		{"id":"n167","type":"file","x":0,"y":6295,"width":300,"height":70,"color":"1","file":"C16 数据的概括性度量/C16 数据的概括性度量.md"},
+		{"id":"n168","type":"file","x":380,"y":6290,"width":300,"height":60,"color":"3","file":"C16 数据的概括性度量/第01章 集中趋势/第01章 集中趋势.md"},
+		{"id":"n169","type":"file","x":780,"y":6280,"width":320,"height":50,"color":"6","file":"C16 数据的概括性度量/第01章 集中趋势/K64 算术平均数、中位数、众数及其关系/K64 算术平均数、中位数、众数及其关系.md"},
+		{"id":"n170","type":"text","x":1130,"y":6275,"width":70,"height":32,"text":""},
+		{"id":"n171","type":"file","x":380,"y":6375,"width":300,"height":60,"color":"3","file":"C16 数据的概括性度量/第02章 离散程度/第02章 离散程度.md"},
+		{"id":"n172","type":"file","x":780,"y":6365,"width":320,"height":50,"color":"6","file":"C16 数据的概括性度量/第02章 离散程度/K65 极差、方差、标准差与离散系数/K65 极差、方差、标准差与离散系数.md"},
+		{"id":"n173","type":"text","x":1130,"y":6360,"width":70,"height":32,"text":""},
+		{"id":"n174","type":"file","x":380,"y":6460,"width":300,"height":60,"color":"3","file":"C16 数据的概括性度量/第03章 分布形状/第03章 分布形状.md"},
+		{"id":"n175","type":"file","x":780,"y":6450,"width":320,"height":50,"color":"6","file":"C16 数据的概括性度量/第03章 分布形状/K66 偏度、峰度与偏态判断/K66 偏度、峰度与偏态判断.md"},
+		{"id":"n176","type":"text","x":1130,"y":6445,"width":70,"height":32,"text":""},
+		{"id":"n177","type":"file","x":0,"y":6610,"width":300,"height":70,"color":"1","file":"C17 时间序列分析与预测/C17 时间序列分析与预测.md"},
+		{"id":"n178","type":"file","x":380,"y":6605,"width":300,"height":60,"color":"3","file":"C17 时间序列分析与预测/第01章 时间序列的构成/第01章 时间序列的构成.md"},
+		{"id":"n179","type":"file","x":780,"y":6595,"width":320,"height":50,"color":"6","file":"C17 时间序列分析与预测/第01章 时间序列的构成/K67 时间序列的构成要素与分解/K67 时间序列的构成要素与分解.md"},
+		{"id":"n180","type":"text","x":1130,"y":6590,"width":70,"height":32,"text":""},
+		{"id":"n181","type":"file","x":380,"y":6690,"width":300,"height":60,"color":"3","file":"C17 时间序列分析与预测/第02章 速度指标/第02章 速度指标.md"},
+		{"id":"n182","type":"file","x":780,"y":6680,"width":320,"height":50,"color":"6","file":"C17 时间序列分析与预测/第02章 速度指标/K68 发展速度、增长速度与平均发展速度/K68 发展速度、增长速度与平均发展速度.md"},
+		{"id":"n183","type":"text","x":1130,"y":6675,"width":70,"height":32,"text":""},
+		{"id":"n184","type":"file","x":380,"y":6775,"width":300,"height":60,"color":"3","file":"C17 时间序列分析与预测/第03章 季节变动与趋势预测/第03章 季节变动与趋势预测.md"},
+		{"id":"n185","type":"file","x":780,"y":6765,"width":320,"height":50,"color":"6","file":"C17 时间序列分析与预测/第03章 季节变动与趋势预测/K69 季节指数与季节调整/K69 季节指数与季节调整.md"},
+		{"id":"n186","type":"text","x":1130,"y":6760,"width":70,"height":32,"text":""},
+		{"id":"n187","type":"file","x":780,"y":6850,"width":320,"height":50,"color":"6","file":"C17 时间序列分析与预测/第03章 季节变动与趋势预测/K70 时间序列模型选择与预测（趋势模型与ARMA）/K70 时间序列模型选择与预测（趋势模型与ARMA）.md"},
+		{"id":"n188","type":"text","x":1130,"y":6845,"width":70,"height":32,"text":""},
+		{"id":"n189","type":"file","x":0,"y":7010,"width":300,"height":70,"color":"1","file":"C18 统计指数/C18 统计指数.md"},
+		{"id":"n190","type":"file","x":380,"y":7005,"width":300,"height":60,"color":"3","file":"C18 统计指数/第01章 综合指数/第01章 综合指数.md"},
+		{"id":"n191","type":"file","x":780,"y":6995,"width":320,"height":50,"color":"6","file":"C18 统计指数/第01章 综合指数/K71 综合指数与平均指数/K71 综合指数与平均指数.md"},
+		{"id":"n192","type":"file","x":380,"y":7090,"width":300,"height":60,"color":"3","file":"C18 统计指数/第02章 指数体系与因素分析/第02章 指数体系与因素分析.md"},
+		{"id":"n193","type":"file","x":780,"y":7080,"width":320,"height":50,"color":"6","file":"C18 统计指数/第02章 指数体系与因素分析/K72 指数体系与因素分析/K72 指数体系与因素分析.md"},
+		{"id":"n194","type":"text","x":1130,"y":7075,"width":70,"height":32,"text":""},
+		{"id":"n195","type":"file","x":780,"y":7165,"width":320,"height":50,"color":"6","file":"C18 统计指数/第02章 指数体系与因素分析/K73 平均数变动的因素分解/K73 平均数变动的因素分解.md"},
+		{"id":"n196","type":"text","x":1130,"y":7160,"width":70,"height":32,"text":""}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"n1","toNode":"n2","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e2","fromNode":"n2","toNode":"n3","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e3","fromNode":"n2","toNode":"n5","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e4","fromNode":"n2","toNode":"n7","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e5","fromNode":"n2","toNode":"n9","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e6","fromNode":"n1","toNode":"n11","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e7","fromNode":"n11","toNode":"n12","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e8","fromNode":"n11","toNode":"n14","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e9","fromNode":"n11","toNode":"n15","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e10","fromNode":"n17","toNode":"n18","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e11","fromNode":"n18","toNode":"n19","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e12","fromNode":"n18","toNode":"n21","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e13","fromNode":"n17","toNode":"n23","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e14","fromNode":"n23","toNode":"n24","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e15","fromNode":"n23","toNode":"n26","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e16","fromNode":"n17","toNode":"n28","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e17","fromNode":"n28","toNode":"n29","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e18","fromNode":"n28","toNode":"n30","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e19","fromNode":"n28","toNode":"n32","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e20","fromNode":"n28","toNode":"n34","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e21","fromNode":"n17","toNode":"n36","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e22","fromNode":"n36","toNode":"n37","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e23","fromNode":"n39","toNode":"n40","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e24","fromNode":"n40","toNode":"n41","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e25","fromNode":"n40","toNode":"n43","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e26","fromNode":"n40","toNode":"n45","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e27","fromNode":"n39","toNode":"n47","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e28","fromNode":"n47","toNode":"n48","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e29","fromNode":"n47","toNode":"n50","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e30","fromNode":"n39","toNode":"n52","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e31","fromNode":"n52","toNode":"n53","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e32","fromNode":"n55","toNode":"n56","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e33","fromNode":"n56","toNode":"n57","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e34","fromNode":"n56","toNode":"n59","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e35","fromNode":"n55","toNode":"n61","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e36","fromNode":"n61","toNode":"n62","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e37","fromNode":"n61","toNode":"n64","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e38","fromNode":"n66","toNode":"n67","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e39","fromNode":"n67","toNode":"n68","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e40","fromNode":"n66","toNode":"n69","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e41","fromNode":"n69","toNode":"n70","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e42","fromNode":"n72","toNode":"n73","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e43","fromNode":"n73","toNode":"n74","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e44","fromNode":"n72","toNode":"n75","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e45","fromNode":"n75","toNode":"n76","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e46","fromNode":"n72","toNode":"n78","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e47","fromNode":"n78","toNode":"n79","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e48","fromNode":"n81","toNode":"n82","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e49","fromNode":"n82","toNode":"n83","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e50","fromNode":"n81","toNode":"n85","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e51","fromNode":"n85","toNode":"n86","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e52","fromNode":"n81","toNode":"n88","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e53","fromNode":"n88","toNode":"n89","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e54","fromNode":"n91","toNode":"n92","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e55","fromNode":"n92","toNode":"n93","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e56","fromNode":"n92","toNode":"n95","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e57","fromNode":"n91","toNode":"n97","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e58","fromNode":"n97","toNode":"n98","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e59","fromNode":"n97","toNode":"n99","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e60","fromNode":"n101","toNode":"n102","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e61","fromNode":"n102","toNode":"n103","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e62","fromNode":"n102","toNode":"n105","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e63","fromNode":"n101","toNode":"n107","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e64","fromNode":"n107","toNode":"n108","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e65","fromNode":"n107","toNode":"n109","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e66","fromNode":"n111","toNode":"n112","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e67","fromNode":"n112","toNode":"n113","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e68","fromNode":"n112","toNode":"n115","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e69","fromNode":"n111","toNode":"n116","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e70","fromNode":"n116","toNode":"n117","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e71","fromNode":"n116","toNode":"n119","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e72","fromNode":"n111","toNode":"n121","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e73","fromNode":"n121","toNode":"n122","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e74","fromNode":"n124","toNode":"n125","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e75","fromNode":"n125","toNode":"n126","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e76","fromNode":"n125","toNode":"n128","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e77","fromNode":"n125","toNode":"n130","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e78","fromNode":"n132","toNode":"n133","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e79","fromNode":"n133","toNode":"n134","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e80","fromNode":"n133","toNode":"n136","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e81","fromNode":"n132","toNode":"n138","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e82","fromNode":"n138","toNode":"n139","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e83","fromNode":"n138","toNode":"n141","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e84","fromNode":"n143","toNode":"n144","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e85","fromNode":"n144","toNode":"n145","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e86","fromNode":"n144","toNode":"n147","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e87","fromNode":"n143","toNode":"n148","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e88","fromNode":"n148","toNode":"n149","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e89","fromNode":"n148","toNode":"n151","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e90","fromNode":"n153","toNode":"n154","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e91","fromNode":"n154","toNode":"n155","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e92","fromNode":"n153","toNode":"n157","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e93","fromNode":"n157","toNode":"n158","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e94","fromNode":"n157","toNode":"n160","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e95","fromNode":"n161","toNode":"n162","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e96","fromNode":"n162","toNode":"n163","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e97","fromNode":"n161","toNode":"n165","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e98","fromNode":"n165","toNode":"n166","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e99","fromNode":"n167","toNode":"n168","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e100","fromNode":"n168","toNode":"n169","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e101","fromNode":"n167","toNode":"n171","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e102","fromNode":"n171","toNode":"n172","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e103","fromNode":"n167","toNode":"n174","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e104","fromNode":"n174","toNode":"n175","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e105","fromNode":"n177","toNode":"n178","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e106","fromNode":"n178","toNode":"n179","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e107","fromNode":"n177","toNode":"n181","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e108","fromNode":"n181","toNode":"n182","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e109","fromNode":"n177","toNode":"n184","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e110","fromNode":"n184","toNode":"n185","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e111","fromNode":"n184","toNode":"n187","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e112","fromNode":"n189","toNode":"n190","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e113","fromNode":"n190","toNode":"n191","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e114","fromNode":"n189","toNode":"n192","fromSide":"right","toSide":"left","color":"4"},
+		{"id":"e115","fromNode":"n192","toNode":"n193","fromSide":"right","toSide":"left","color":"5"},
+		{"id":"e116","fromNode":"n192","toNode":"n195","fromSide":"right","toSide":"left","color":"5"}
+	]
 }

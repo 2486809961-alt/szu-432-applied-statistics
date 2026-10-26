@@ -25,8 +25,8 @@
   "zk-prefixer": false,
   "slides": false,
   "note-composer": false,
-  "webviewer": false,
-  "sync": false,
+  "webviewer": true,
+  "sync": true,
   "publish": false,
   "footnotes": false,
   "editor-status": true

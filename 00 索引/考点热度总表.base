@@ -1,39 +1,39 @@
 filters:
   and:
-    - 'type == "考点"'
+    - type == "考点"
 properties:
-  "考点":
+  考点:
     displayName: 考点
-  "考点码":
+  考点码:
     displayName: 考点码
-  "大类":
+  大类:
     displayName: 大类
-  "板块":
+  板块:
     displayName: 板块
-  "考频":
+  考频:
     displayName: 考频
-  "年份":
+  年份:
     displayName: 考过的年份
 views:
   - type: table
     name: 考点热度榜
     order:
-      - "考点"
-      - "考频"
-      - "年份"
-      - "大类"
-      - "板块"
+      - 考点
+      - 考频
+      - 年份
+      - 大类
+      - 板块
       - file.name
     sort:
-      - property: "考频"
+      - property: 考频
         direction: DESC
   - type: table
     name: 按大类分组
     groupBy:
-      property: "大类"
+      property: 大类
       direction: ASC
     order:
-      - "考点"
-      - "考频"
-      - "年份"
+      - 考点
+      - 考频
+      - 年份
       - file.name

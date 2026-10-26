@@ -14,3 +14,9 @@ Icon?
 # 脚本缓存
 __pycache__/
 *.pyc
+
+# 社区插件本体不进仓库（克隆后用 scripts/obsidian-connect.sh 或 OpenPlug 现场安装）
+.obsidian/plugins/
+
+# Copilot 插件的本地缓存 / 索引
+.copilot/
